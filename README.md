@@ -8,8 +8,8 @@
 - Install Composer
 
 ### Começando
-
-- ```composer require tigo/documentbr``` ou ```composer update```
+1. Baixar o projeto 
+2. Atualizar projeto ```composer require tigo/documentbr``` ou ```composer update```
 
 ### Código fonte tigo/documentbr
 
