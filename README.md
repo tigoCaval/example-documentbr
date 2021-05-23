@@ -18,3 +18,10 @@
 ## Licença
 
 Licença MIT. Veja o arquivo [License](https://github.com/tigoCaval/example-documentbr/blob/main/LICENSE).
+
+---
+Olá! Se você achou este pacote útil, considere fazer uma [doação](https://www.paypal.com/donate?hosted_button_id=GNFS3L3FRC9K8). Fique à vontade para contribuir ou não.
+
+<a href="https://www.paypal.com/donate?hosted_button_id=GNFS3L3FRC9K8" target="_blank">
+<img src="https://www.paypalobjects.com/pt_BR/i/btn/btn_donate_SM.gif" alt="Paypal">
+</a>
