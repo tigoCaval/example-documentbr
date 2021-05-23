@@ -5,7 +5,7 @@
 ### Requisitos
 
 - PHP >= 7
-- Install Composer
+- Composer
 
 ### Começando
 1. Baixar o projeto 
