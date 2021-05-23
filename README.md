@@ -13,7 +13,7 @@
 
 ### Código fonte tigo/documentbr
 
-- [tigo/documentbr](https://github.com/tigoCaval/document-br)
+- [tigo/document-br](https://github.com/tigoCaval/document-br)
 
 ## Licença
 
