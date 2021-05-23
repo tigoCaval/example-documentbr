@@ -15,3 +15,6 @@
 
 - [tigo/documentbr](https://github.com/tigoCaval/document-br)
 
+## Licença
+
+Licença MIT. Veja o arquivo [License](https://github.com/tigoCaval/example-documentbr/blob/main/LICENSE).
