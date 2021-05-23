@@ -20,6 +20,6 @@
 Licença MIT. Veja o arquivo [License](https://github.com/tigoCaval/example-documentbr/blob/main/LICENSE).
 
 ---
-*Olá! Se você achou este projeto útil, :coffee: considere fazer uma **doação** de qualquer valor ou deixe sua estrela :star: para apoiar o Desenvolvedor. **Fique à vontade para contribuir ou não.***
+*Olá! Se você achou este projeto útil, :coffee: considere fazer uma **[doação](https://www.paypal.com/donate?hosted_button_id=GNFS3L3FRC9K8)** de qualquer valor ou deixe sua estrela :star: para apoiar o Desenvolvedor. **Fique à vontade para contribuir ou não.***
 
 
